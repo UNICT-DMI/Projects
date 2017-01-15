@@ -17,4 +17,10 @@ All Database projects opensource in GitHub
 ## - [Paste & Go](https://github.com/simone989/Paste-Go)
 ![Paste & Go](https://s23.postimg.org/3sjqjtp2j/Paste_Go.png "Paste & GO")
 
+---
+
+## - [Hospital Room Booking](https://github.com/pietrobiondi/hospital-room-booking)
+![Hospital Room Booking](https://s23.postimg.org/5bvau1trv/hospital_room_booking.jpg "Hospital Room Booking")
+
+
 
