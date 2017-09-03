@@ -13,9 +13,17 @@
 ### Processing
 - [Image Editor](https://github.com/Helias/ImageEditor)
 - [Puzzle 15](https://github.com/GabMus/ProcessingPuzzle15)
+- [FifteenGame](https://github.com/Tkd-Alex/FifteenGame)
 
 ### Data Mining
 - [Web Netspot](https://github.com/IamTask/webNETSPOT/)
 
 ### TAP
 - [Catania Discovery](https://github.com/UnPanda/Catania-Discovery)
+
+### Architettura
+- [Circuit Simulator](https://github.com/Helias/CircuitSimulator)
+- [Universal base converted](https://github.com/simone989/UBC-Universal-base-converted)
+
+### Social Media Management
+- [Youtube Graphs](https://github.com/squalex95/Youtube-Graphs)
